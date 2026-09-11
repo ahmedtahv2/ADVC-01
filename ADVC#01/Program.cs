@@ -71,7 +71,16 @@ namespace ADVC_01
         //} 
         #endregion
 
-
+        #region Q7
+        ////constrain that let the type must be struct 
+        //public class Test<T> where T:struct
+        //{
+        //    public void testt()
+        //    {
+        //        Console.WriteLine("ewww");
+        //    }
+        //} 
+        #endregion
 
 
     }
