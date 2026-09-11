@@ -42,7 +42,15 @@ namespace ADVC_01
         //} 
         #endregion
 
-
-
+        #region Q4
+        ////A method that can take independent genric type 
+        //public void Swap<T>(ref T item1 ,ref T item2)
+        //{
+        //    T box;
+        //    box = item1;
+        //    item1 = item2;
+        //    item2 = box;
+        //} 
+        #endregion
     }
 }
