@@ -60,6 +60,19 @@ namespace ADVC_01
         //} 
         #endregion
 
+        #region Q6
+        ////interface with genric type and any calss implement it must say the type 
+        //public interface IRepository<T>
+        //{
+        //    public void Add(T item);
+        //    public void Remove(T item);
+        //    public T GetById(int ID);
+        //    public List<T> GetAll();
+        //} 
+        #endregion
+
+
+
 
     }
 }
