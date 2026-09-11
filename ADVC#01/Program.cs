@@ -52,5 +52,14 @@ namespace ADVC_01
         //    item2 = box;
         //} 
         #endregion
+
+        #region Q5
+        //public T FindMax<T>(T item1 , T item2) where T :IComparable
+        //{
+        //    return item1.CompareTo(item2) > 0 ? item1 : item2;
+        //} 
+        #endregion
+
+
     }
 }
