@@ -115,5 +115,20 @@ namespace ADVC_01
         //} 
         #endregion
 
+        #region Q11
+        ////constrain that let the type must inherit feom the base class(any name)
+        //public class Base()
+        // {
+
+        // }
+        // public class Test<T> where T : Base
+        // {
+        //     public void testt()
+        //     {
+        //         Console.WriteLine("ewww");
+        //     }
+        // } 
+        #endregion
+
     }
 }
