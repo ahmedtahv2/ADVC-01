@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using System.Reflection.Metadata.Ecma335;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ADVC_01
 {
@@ -140,6 +141,11 @@ namespace ADVC_01
         //        Console.WriteLine("ewww");
         //    }
         //} 
+        #endregion
+
+        #region Q14
+        //public T SafeList<T>(List<T> list, int index) => index >= 0 ? list[index] : default;
+
         #endregion
 
 
