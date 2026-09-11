@@ -82,6 +82,17 @@ namespace ADVC_01
         //} 
         #endregion
 
+        #region Q8
+        ////constrain that let the type must be Class (reference type)
+        //public class Test<T> where T : class
+        //{
+        //    public void testt()
+        //    {
+        //        Console.WriteLine("ewww");
+        //    }
+        //} 
+        #endregion
+
 
     }
 }
