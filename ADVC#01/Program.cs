@@ -93,6 +93,16 @@ namespace ADVC_01
         //} 
         #endregion
 
+        #region Q9
+        ////constrain that let the type must have paramterLess Ctor
+        //public class Test<T> where T : new()
+        //{
+        //    public void testt()
+        //    {
+        //        Console.WriteLine("ewww");
+        //    }
+        //} 
+        #endregion
 
     }
 }
