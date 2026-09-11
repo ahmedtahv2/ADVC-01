@@ -148,6 +148,14 @@ namespace ADVC_01
 
         #endregion
 
+        #region Q15
+        //make the genric type return only (output)
+
+        #endregion
+        #region Q16
+        //make the genric type read only (input)
+
+        #endregion
 
     }
 }
