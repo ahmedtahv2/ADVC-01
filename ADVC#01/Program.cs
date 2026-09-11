@@ -11,7 +11,10 @@ namespace ADVC_01
             //class can have more than one type ,to code without duplicating the code for the same logic but different data type
             //Q13
             //returns the default value 
-            
+            //Q18
+            //Each  generic type has its own separate copy of static members
+            //Q19
+            //by specifying its type parameter or keeping the derived class generic
         }
         #region Q2
         //public class Container<T>
@@ -155,6 +158,18 @@ namespace ADVC_01
         #region Q16
         //make the genric type read only (input)
 
+        #endregion
+
+        #region Q17
+        //covariance let the genric type outPut only whe contravariance let the geniric type input only
+
+        #endregion
+
+        #region Q20
+        public class Cache<TKey, TValue>
+        {
+            //????????????????????????????
+        } 
         #endregion
 
     }
