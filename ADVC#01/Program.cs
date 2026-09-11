@@ -104,5 +104,16 @@ namespace ADVC_01
         //} 
         #endregion
 
+        #region Q10
+        ////constrain that let the type must implement specific interface
+        //public class Test<T> where T : IComparable
+        //{
+        //    public void testt()
+        //    {
+        //        Console.WriteLine("ewww");
+        //    }
+        //} 
+        #endregion
+
     }
 }
