@@ -130,5 +130,16 @@ namespace ADVC_01
         // } 
         #endregion
 
+        #region Q12
+        ////by adding more than constrains Ez :)
+        //public class Test<T> where T : class ,IComparable ,new()
+        //{
+        //    public void testt()
+        //    {
+        //        Console.WriteLine("ewww");
+        //    }
+        //} 
+        #endregion
+
     }
 }
