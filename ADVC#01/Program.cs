@@ -8,7 +8,8 @@ namespace ADVC_01
         {
             //Q1
             //class can have more than one type ,to code without duplicating the code for the same logic but different data type
-            
+            //Q13
+            //returns the default value 
             
         }
         #region Q2
@@ -140,6 +141,7 @@ namespace ADVC_01
         //    }
         //} 
         #endregion
+
 
     }
 }
